@@ -8,7 +8,8 @@
   <a href="https://gitlab.com/">GitLab</a>,
   <a href="https://bitbucket.org/">Bitbucket</a>,
   <a href="https://gitea.com/">Gitea</a> and
-  <a href="https://gitee.com/">Gitee(码云)</a>, built with Flutter
+  <a href="https://gitee.com/">Gitee(码云)</a>, built with Flutter.
+  Unofficial fork by DinuruSeniya.
 </p>
 <p align="center">
   <a href="https://apps.apple.com/us/app/gittouch/id1452042346"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US" alt="Download on the App Store" height="48"></a>
